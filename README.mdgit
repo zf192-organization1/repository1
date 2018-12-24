@@ -1,0 +1,1 @@
+"# repository1"  initgit add README.mdgit commit -m "first commit"git remote add origin git@github.com:zf192-organization1/repository1.gitgit push -u origin master
